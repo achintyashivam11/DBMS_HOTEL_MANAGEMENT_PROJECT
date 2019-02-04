@@ -1,0 +1,7 @@
+# DBMS_HOTEL_MANAGEMENT_PROJECT
+This is a repository for DBMS_HOTEL_MANAGEMENT_PROJECT
+Navneet Raju PES1201701545
+Sujeeth AV  PES1201700958
+Achintya Shivam PES1201700151
+Section G
+PES University
